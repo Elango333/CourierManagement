@@ -1,0 +1,17 @@
+
+Customer Information:
+Consignment code           : 3423335
+Receiver Address: 
+Name                       : Shankar
+Address                    : Tenkasi
+Contact Number             : 123456789
+
+Package details:
+Description of the content : Books
+Weight                     : 300.0g
+Number of pieces           : 1
+Amount                     : 30.0
+Delivery Time              : '2023-12-11 05:43 PM'
+Delivery Status            : Shipped
+
+-------------------------------

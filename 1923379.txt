@@ -1,0 +1,17 @@
+
+Customer Information:
+Consignment code           : 1923379
+Receiver Address: 
+Name                       : Sorimuthu
+Address                    : Madurai
+Contact Number             : 1234567890
+
+Package details:
+Description of the content : Documents
+Weight                     : 500.0g
+Number of pieces           : 1
+Amount                     : 50.0
+Delivery Time              : '2023-12-11 05:24 PM'
+Delivery Status            : Shipped
+
+-------------------------------

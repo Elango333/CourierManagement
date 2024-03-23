@@ -1,0 +1,17 @@
+
+Customer Information:
+Consignment code           : 7382237
+Receiver Address: 
+Name                       : sts
+Address                    : Madurai
+Contact Number             : 0987654321
+
+Package details:
+Description of the content : Biriyani
+Weight                     : 500.0g
+Number of pieces           : 3
+Amount                     : 50.0
+Delivery Time              : '2023-12-11 11:21 AM'
+Delivery Status            : Shipped
+
+-------------------------------

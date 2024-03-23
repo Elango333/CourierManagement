@@ -1,0 +1,17 @@
+
+Receiver Information:
+Consignment code           : 3329929
+Receiver Address: 
+Name                       : Karthick
+Address                    : Covai
+Contact Number             : 1234567890
+
+Package details:
+Description of the content : Notes
+Weight                     : 600.0g
+Number of pieces           : 1
+Amount                     : 120.0
+Delivery Time              : '2023-12-11 05:44 PM'
+Delivery Status            : Delivered
+
+-------------------------------

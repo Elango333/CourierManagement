@@ -1,0 +1,17 @@
+
+Customer Information:
+Consignment code           : 6369507
+Receiver Address: 
+Name                       : Gokul
+Address                    : Madurai
+Contact Number             : 1234567890
+
+Package details:
+Description of the content : Dresses
+Weight                     : 500.0g
+Number of pieces           : 1
+Amount                     : 50.0
+Delivery Time              : '2023-12-10 04:55 PM'
+Delivery Status            : Shipped
+
+-------------------------------

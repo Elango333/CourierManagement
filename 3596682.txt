@@ -1,0 +1,17 @@
+
+Customer Information:
+Consignment code           : 3596682
+Receiver Address: 
+Name                       : Rahul
+Address                    : Tirunelveli
+Contact Number             : 1234567890
+
+Package details:
+Description of the content : Food
+Weight                     : 200.0g
+Number of pieces           : 1
+Amount                     : 40.0
+Delivery Time              : '2023-12-11 08:26 AM'
+Delivery Status            : Delivered
+
+-------------------------------

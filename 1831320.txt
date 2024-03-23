@@ -1,0 +1,17 @@
+
+Customer Information:
+Consignment code           : 1831320
+Receiver Address: 
+Name                       : Tharan
+Address                    : Tenkasi
+Contact Number             : 1234567890
+
+Package details:
+Description of the content : Books
+Weight                     : 800.0g
+Number of pieces           : 1
+Amount                     : 80.0
+Delivery Time              : '2023-12-10 05:08 PM'
+Delivery Status            : Delivered
+
+-------------------------------

@@ -1,0 +1,17 @@
+
+Receiver Information:
+Consignment code           : 433158
+Receiver Address: 
+Name                       : Mukesh
+Address                    : Namakkal
+Contact Number             : 1234567890
+
+Package details:
+Description of the content : Books
+Weight                     : 450.0g
+Number of pieces           : 1
+Amount                     : 90.0
+Delivery Time              : '2023-12-13 12:08 AM'
+Delivery Status            : Delivered
+
+-------------------------------

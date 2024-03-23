@@ -1,0 +1,10 @@
+
+Personal details:
+Name           : Mathi
+Address        : Tirunelveli
+Contact Number : 123456789
+
+-------------------------------
+
+Orders that you have placed: '0'
+

@@ -1,0 +1,17 @@
+
+Customer Information:
+Consignment code           : 9263878
+Receiver Address: 
+Name                       : Elango
+Address                    : asd
+Contact Number             : 1234567890
+
+Package details:
+Description of the content : asdfgh
+Weight                     : 234.0g
+Number of pieces           : 1
+Amount                     : 23.0
+Delivery Time              : '2023-12-10 03:58 PM'
+Delivery Status            : Shipped
+
+-------------------------------

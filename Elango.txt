@@ -1,0 +1,26 @@
+
+Personal details:
+Name           : Elango
+Address        : 15A, Middle Street, Sindupoondurai, Tirunelveli, Tamilnadu-627001
+Contact Number : 8667513353
+
+-------------------------------
+
+Orders that you have placed: '1'
+
+
+Receiver Address: 
+Name                       : Kavin
+Address                    : Chennai
+Contact Number             : 1234567890
+Consignment code           : 7792890
+
+Package details:
+Description of the content : Mobile
+Weight                     : 300.0g
+Number of pieces           : 1
+Amount                     : 60.0
+Delivery Time              : '2023-12-15 12:58 PM'
+Delivery Status            : Shipped
+
+-------------------------------

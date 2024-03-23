@@ -1,0 +1,17 @@
+
+Customer Information:
+Consignment code           : 403994
+Receiver Address: 
+Name                       : Rajesh
+Address                    : Tirunelveli
+Contact Number             : 1234567890
+
+Package details:
+Description of the content : Mobile
+Weight                     : 300.0g
+Number of pieces           : 1
+Amount                     : 30.0
+Delivery Time              : '2023-12-11 05:25 PM'
+Delivery Status            : Shipped
+
+-------------------------------

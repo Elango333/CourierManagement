@@ -1,0 +1,17 @@
+
+Customer Information:
+Consignment code           : 1492187
+Receiver Address: 
+Name                       : asdf
+Address                    : asdf
+Contact Number             : 1234
+
+Package details:
+Description of the content : sdf
+Weight                     : 233.0g
+Number of pieces           : 1
+Amount                     : 23.0
+Delivery Time              : '2023-12-10 03:42 PM'
+Delivery Status            : Delivered
+
+-------------------------------

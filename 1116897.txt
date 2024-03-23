@@ -1,0 +1,17 @@
+
+Customer Information:
+Consignment code           : 1116897
+Receiver Address: 
+Name                       : Piravin
+Address                    : No:11/79, Anna nagar, 4th street, Alangulam, Tenkasi-627851
+Contact Number             : 12345678
+
+Package details:
+Description of the content : Food
+Weight                     : 5000.0g
+Number of pieces           : 5
+Amount                     : 1000.0
+Delivery Time              : '2023-12-11 05:00 PM'
+Delivery Status            : Shipped
+
+-------------------------------

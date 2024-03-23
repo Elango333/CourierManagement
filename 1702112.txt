@@ -1,0 +1,17 @@
+
+Receiver Information:
+Consignment code           : 1702112
+Receiver Address: 
+Name                       : Tharan
+Address                    : 50A, Tenkasi
+Contact Number             : 1234567890
+
+Package details:
+Description of the content : Books
+Weight                     : 1000.0g
+Number of pieces           : 1
+Amount                     : 200.0
+Delivery Time              : '2023-12-13 11:53 AM'
+Delivery Status            : Delivered
+
+-------------------------------

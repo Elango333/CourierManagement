@@ -1,0 +1,13 @@
+-------------------------------
+
+Company Details:
+Manager name: ELango
+Address: 2/278, Ambai Road, Silaraipuravu Village, Mathalamparai, Tenkasi, Tamil Nadu-627814
+Contact number: 8667513353
+
+-------------------------------
+
+Number of Customers: '7'
+Number of orders received: '15'
+
+-------------------------------

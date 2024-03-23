@@ -1,0 +1,10 @@
+
+Personal details:
+Name           : Rahul
+Address        : Salem
+Contact Number : 1234567890
+
+-------------------------------
+
+Orders that you have placed: '0'
+

@@ -1,0 +1,17 @@
+
+Customer Information:
+Consignment code           : 4350804
+Receiver Address: 
+Name                       : Eswari
+Address                    : Madurai
+Contact Number             : 1234567890
+
+Package details:
+Description of the content : Book
+Weight                     : 2000.0g
+Number of pieces           : 10
+Amount                     : 400.0
+Delivery Time              : '2023-12-10 08:27 AM'
+Delivery Status            : Delivered
+
+-------------------------------

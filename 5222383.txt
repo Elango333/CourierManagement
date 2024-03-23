@@ -1,0 +1,17 @@
+
+Customer Information:
+Consignment code           : 5222383
+Receiver Address: 
+Name                       : Sun
+Address                    : Tenkasi
+Contact Number             : 1234567890
+
+Package details:
+Description of the content : Books
+Weight                     : 500.0g
+Number of pieces           : 1
+Amount                     : 50.0
+Delivery Time              : '2023-12-11 05:39 PM'
+Delivery Status            : Shipped
+
+-------------------------------

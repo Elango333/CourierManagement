@@ -1,0 +1,42 @@
+
+Customer details:
+Name           : Elango
+Address        : 15A, Middle Street, Sindupoondurai, Tirunelveli, Tamilnadu-627001
+Contact Number : 8667513353
+
+-------------------------------
+
+Customer details:
+Name           : Rahul
+Address        : Salem
+Contact Number : 1234567890
+
+-------------------------------
+
+Customer details:
+Name           : Mathi
+Address        : Tirunelveli
+Contact Number : 123456789
+
+-------------------------------
+Customer details:
+
+Name           : T.SanthiMurugesan
+Address        : Surandai
+Contact Number : 1234567890
+
+-------------------------------
+Customer details:
+
+Name           : Tharan
+Address        : Tenkasi
+Contact Number : 1234567890
+
+-------------------------------
+Customer details:
+
+Name           : Udaya
+Address        : 15A, Thachanallur, Tirunelveli, Tamilnadu-627001
+Contact Number : 8610526525
+
+-------------------------------

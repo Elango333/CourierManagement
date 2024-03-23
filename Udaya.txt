@@ -1,0 +1,26 @@
+
+Personal details:
+Name           : Udaya
+Address        : 15A, Thachanallur, Tirunelveli, Tamilnadu-627001
+Contact Number : 8610526525
+
+-------------------------------
+
+Orders that you have placed: '1'
+
+
+Receiver Address: 
+Name                       : Tharan
+Address                    : 50A, Tenkasi
+Contact Number             : 1234567890
+Consignment code           : 1702112
+
+Package details:
+Description of the content : Books
+Weight                     : 1000.0g
+Number of pieces           : 1
+Amount                     : 200.0
+Delivery Time              : '2023-12-13 11:53 AM'
+Delivery Status            : Shipped
+
+-------------------------------
